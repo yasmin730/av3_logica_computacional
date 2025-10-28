@@ -12,4 +12,9 @@ Ordenação de números
   TABUADA :D
 
   COMO USAR
-iniciar o programa com: , escolher um número e colocar
+iniciar o programa , escolher um número e colocar
+
+
+CODIGO PARA RODAR
+$ gcc tabuada.c -o tabuada
+$ ./tabuada
