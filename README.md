@@ -12,4 +12,4 @@ Ordenação de números
   TABUADA :D
 
   COMO USAR
-.
+iniciar o programa com: , escolher um número e colocar
