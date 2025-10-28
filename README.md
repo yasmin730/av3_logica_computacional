@@ -11,7 +11,7 @@ Ordenação de números
 
   TABUADA :D
 
-  COMO USAR 
+  COMO USAR\  
 iniciar o programa , escolher um número e colocar
 
 
