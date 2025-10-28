@@ -11,10 +11,10 @@ Ordenação de números
 
   TABUADA :D
 
-  COMO USAR
+  COMO USAR /n
 iniciar o programa , escolher um número e colocar
 
 
-CODIGO PARA RODAR
-$ gcc tabuada.c -o tabuada
+CODIGO PARA RODAR /n
+$ gcc tabuada.c -o tabuada /n
 $ ./tabuada
