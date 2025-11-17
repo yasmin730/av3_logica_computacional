@@ -15,5 +15,16 @@ Ordenação de números
 iniciar o programa , escolher um número e colocar
 
 COMO RODAR   
-$ gcc -o tabuada tabuada.c    
+`````sh
+$ gcc -o tabuada tabuada.c  
 $ ./tabuada
+`````
+CÓDIGOS FUNCIONANDO
+`````
+
+
+
+
+
+
+
