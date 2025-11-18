@@ -21,7 +21,7 @@ $ gcc -o tabuada tabuada.c
 ````
 $ ./tabuada
 `````
-CÓDIGOS FUNCIONANDO
+PROGRAMA FUNCIONANDO
 `````
 tabuada do 7
 7 x 1 = 7
@@ -35,10 +35,35 @@ tabuada do 7
 7 x 9 = 63
 7 x 10 = 70
 ``````
-  CALCULADORA
+  CALCULADORA  
 
   COMO USAR  
-  iniciar o programa, 
+  iniciar o programa, escolher dois numeros e uma operação  
+
+  COMO RODAR
+  ````
+$ gcc -o calculadora calculadora.c
+````
+````
+$ ./calculadora
+````
+PROGRAMA FUNCIONANDO
+````
+Digite a operacao (ex: 2 + 3) ou 'q' para sair: 2 + 7
+Resultado: 9
+````
+
+ORDENAÇÃO DE NÚMEROS  
+
+COMO USAR  
+
+
+
+
+
+
+
+
   
 
 
