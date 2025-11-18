@@ -37,7 +37,7 @@ tabuada do 7
 ``````
   CALCULADORA
 
-  COMO USAR
+  COMO USAR  
   iniciar o programa, 
   
 
