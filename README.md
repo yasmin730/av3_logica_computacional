@@ -16,7 +16,9 @@ iniciar o programa , escolher um número e colocar
 
 COMO RODAR   
 `````sh
-$ gcc -o tabuada tabuada.c  
+$ gcc -o tabuada tabuada.c
+``````
+````
 $ ./tabuada
 `````
 CÓDIGOS FUNCIONANDO
