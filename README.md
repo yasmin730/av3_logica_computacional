@@ -56,6 +56,15 @@ Resultado: 9
 ORDENAÇÃO DE NÚMEROS  
 
 COMO USAR  
+iniciar o programa, escolher 5 números e o programa. 
+irá ordenar os números. 
+
+COMO RODAR. 
+````
+$ ./ordenacao
+````
+PROGRAMA FUNCIONANDO. 
+````
 
 
 
