@@ -56,14 +56,25 @@ Resultado: 9
 ORDENAÇÃO DE NÚMEROS  
 
 COMO USAR  
-iniciar o programa, escolher 5 números e o programa. 
-irá ordenar os números. 
+iniciar o programa, escolher x elementos e colocar x números (ex: se escolher 5 elementos, irá colocar 5 números) e o programa irá ordenar os números. 
 
 COMO RODAR. 
 ````
 $ ./ordenacao
 ````
-PROGRAMA FUNCIONANDO. 
+PROGRAMA FUNCIONANDO  
+````
+digite o numero de elementos: 7
+digite os 7 numeros:
+1
+3
+68
+10
+2
+4
+7
+numeros ordenados:
+1 2 3 4 7 10 68
 ````
 
 
